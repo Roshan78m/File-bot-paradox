@@ -33,16 +33,16 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 │
 ├🔹 **Hosted On:** [Heroku](https://heroku.com)
 │
-├🔸 **Developer:** [Predator HackerzZ](https://t.me/OwnYourBotz) 
+├🔸 **Developer:** [Predator HackerzZ](https://t.me/spy_radios) 
 │
-├🔹 **Bot Support:** [Support Group](https://t.me/TeleRoid14)
+├🔹 **Bot Support:** [Support Group](https://t.me/animes_paradox)
 │
-├🔸 **Bot Updates:** [Bots Channel](https://t.me/TeleRoidGroup)
+├🔸 **Bot Updates:** [Bots Channel](https://t.me/ongoing_paradox)
 │
 ╰──────[ 😎 ]───────────⍟
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [@PredatorHackerzZ](https://github.com/PredatorHackerzZ)
+🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [@spy_radios](https://github.com/roshanmishra)
  
  I am Super noob Please Support My Hard Work.
 
