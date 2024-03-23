@@ -1,8 +1,8 @@
-### Botz By [@PredatorHackerzZ](https://t.me/TheTeleRoid)
+### Botz By [@Anime_Paradox](https://t.me/spy_Radios)
 
 # Bots new Version
 
-### Special Thanks @AbirHasan2005
+### Special Thanks @spy_radios
 
 # Added With Batch Mode and Ban/Unban Command
 ° Features New Version Of Python And Modules
